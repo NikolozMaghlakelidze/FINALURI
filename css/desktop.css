@@ -1,0 +1,123 @@
+@media(max-width:1040px){
+    .index_header{
+        padding: 26px 32px;
+        /* gap: 159px; */
+    }
+    .header_nav22{
+        display: none;
+    }
+    .active_a:hover{
+        color: sienna;
+        }
+        .header1_a:hover{
+            color: crimson;
+            box-shadow: inset 0 0 0 1px forestgreen;
+        }
+        /* section1  */
+        /* .section1_1{ */
+        .section1_1_button:hover{
+            box-shadow: inset 0 0 0 3px burlywood;
+        }
+        /* section3  */
+        .section3_1{
+            padding: 96px 32px;
+            width: 1024px;
+        }
+        .section3_1_img1{
+            width: 591px;
+            padding-right: 24px;
+        }
+        .section3_1_img2{
+            width: 345px;
+        }
+        .section1_1_div1{
+            width: 960px;
+        }
+        .section3_1_img3{
+            width: 284px;
+        }
+        .section3_1_img4{
+            width: 284px;
+            margin-left: -17px;
+            margin-right:-16px;
+        }
+        .section3_1_img5{
+            width: 345px;
+        }
+        /* section4  */
+        .section4_1{
+            width: 1336px;
+            overflow-x: scroll;
+        }
+        /* section6  */
+        .section6_1{
+            width: 960px;
+        }
+        .section6_div_1,
+        .section6_div_2{
+         width: 468px;
+        padding: 8px 8px 20px 8px;
+        height: 172px;
+        
+        }
+        .s6_div_2{
+            display: block;
+            width: 960px;
+            padding: 8px 8px 20px 8px;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 16px;
+        margin-top: 196px;
+        margin-left: -975px;
+        }
+        .section6_h2_1{
+margin-left: 197px;
+        }
+        .section6_button_1{
+            margin-left: 316px;
+        }
+        /* footer  */
+        .index_footer{
+            display: flex;
+         padding: 32px;
+         justify-content: center;
+         align-items: flex-start;
+         gap: 191px;
+        }
+        /* second page  */
+        .section2_2{
+            height: 1716px;
+        }
+     .responsive_d1{
+        width: 468px;
+height: 331px;
+margin-left: 10px;
+     }
+.responsive_d3{
+    margin-top: 350px;
+    margin-left: -890px;
+}
+.responsive_d4{
+    margin-top: -380px;
+    margin-left: 420px;
+}
+.responsive_d5{
+    margin-left: -800px;
+}
+.responsive_d9{
+    display: none;
+}
+
+
+
+
+
+        /* third page  */
+        .section2_3{
+            width: 960px;
+        }
+        .maps{
+            margin-left: 246px;
+            width: 714px;
+        }
+}
